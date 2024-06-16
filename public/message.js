@@ -1,0 +1,1 @@
+alert("Script in Next JS");
