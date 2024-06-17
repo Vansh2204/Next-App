@@ -25,27 +25,21 @@ export default function Home() {
     </style> */}
 
 
-      <h1 className="heading flex justify-center mt-20 text-2xl">Ticket Hunt</h1>
-      <p className="flex justify-center text-sm">One place to book tickets for your inner cricket child </p>
+      <h1 className="heading flex justify-center mt-20 text-2xl">Cricket Blog</h1>
+      <p className="flex justify-center text-sm">The blog book</p>
+      <p className="flex justify-center font-semibold mt-14">#Trending Blogs</p>
 
-      <div className="flex justify-center mt-20 grid grid-rows-4 grid-flow-col lg:grid-rows-1 gap-4 ">
+      <div className="flex justify-center mt-8 grid grid-rows-4 grid-flow-col lg:grid-rows-1 gap-4 ">
         <div className="container bg-white text-black w-64 h-48 text-center font-mono rounded-md">
-          <h1 className="text-2xl mt-16">St.Lucia</h1>
-          <p className="text-sm">India vs Australia</p>
+          <h1 className="text-2xl mt-16">Sourabh Netrawalkar</h1>
+          <p className="text-sm">USA Cricket</p>
         </div>
         <div className="container bg-white text-black w-64 h-48 text-center font-mono rounded-md">
-          <h1 className="text-2xl mt-16">Antigua</h1>
-          <p className="text-sm">India vs Bangladesh</p>
+          <h1 className="text-2xl mt-16">Aussies</h1>
+          <p className="text-sm">Cricket Australia</p>
         </div>
-        <div className="container bg-white text-black w-64 h-48 text-center font-mono rounded-md">
-          <h1 className="text-2xl mt-16">Barbados</h1>
-          <p className="text-sm">India vs Afghanistan</p>
-        </div>
-        <div className="container bg-white text-black w-64 h-48 text-center font-mono rounded-md">
-          <h1 className="text-2xl mt-16">TBC</h1>
-          <p className="text-sm">TBC</p>
-        </div>
-        
+      
+
       </div>
       {/* <Image
         alt="Next Image"

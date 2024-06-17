@@ -8,7 +8,7 @@ export default function About() {
         </Script> */}
             <div className="text-justify m-8 grid grid-cols-1 gap-5 sm:grid-cols-2">
                 <div>
-                <h1 className="font-semibold">Welcome to Ticket Hunt !</h1>
+                <h1 className="font-semibold">Welcome to Cricket Blog !</h1>
                 <p className="text-sm mt-2">At Ticket Hunt, we are passionate about bringing cricket enthusiasts closer to the action. Our platform is designed to provide a seamless and convenient ticket booking experience for all cricket matches, from local games to international tournaments. Whether you're a die-hard fan or a casual spectator, we make it easy for you to secure your seat at the next big match.</p>
                 </div>
                 <div>
