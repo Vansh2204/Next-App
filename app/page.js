@@ -2,6 +2,7 @@ import Head from "next/head";
 import Image from "next/image";
 import Script from "next/script";
 
+
 export default function Home() {
   return (
     <>
@@ -9,13 +10,7 @@ export default function Home() {
         <title>Next App</title>
         {/* <script src="/message.js"></script> */}
       </Head>
-      <nav>
-        <ul className="flex grid-cols-4 gap-4 m-10 justify-center">
-          <li className="">Home</li>
-          <li className="">About</li>
-          <li className="">Contact</li>
-        </ul>
-      </nav>
+    
       {/* <Script src="/message.js">
     </Script> */}
       <h1 className="flex justify-center mt-20 text-2xl">Ticket Hunt</h1>
@@ -40,10 +35,10 @@ export default function Home() {
         </div>
         
       </div>
-      <Image
+      {/* <Image
         alt="Next Image"
 
-      />
+      /> */}
 
 
     </>
