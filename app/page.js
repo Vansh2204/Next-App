@@ -8,15 +8,27 @@ export default function Home() {
     <>
       <Head>
         <title>Next App</title>
-        {/* <script src="/message.js"></script> */}
       </Head>
     
       {/* <Script src="/message.js">
     </Script> */}
-      <h1 className="flex justify-center mt-20 text-2xl">Ticket Hunt</h1>
+
+
+    {/* <style>
+      {`
+      .heading{
+      background:white;
+      color:black;
+
+      }
+      `}
+    </style> */}
+
+
+      <h1 className="heading flex justify-center mt-20 text-2xl">Ticket Hunt</h1>
       <p className="flex justify-center text-sm">One place to book tickets for your inner cricket child </p>
 
-      <div className="flex justify-center mt-20 grid grid-rows-2 grid-flow-col gap-4 ">
+      <div className="flex justify-center mt-20 grid grid-rows-4 grid-flow-col lg:grid-rows-1 gap-4 ">
         <div className="container bg-white text-black w-64 h-48 text-center font-mono rounded-md">
           <h1 className="text-2xl mt-16">St.Lucia</h1>
           <p className="text-sm">India vs Australia</p>
