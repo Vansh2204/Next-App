@@ -29,6 +29,11 @@ export default function Home() {
       <p className="flex justify-center text-sm">The blog book</p>
       <p className="flex justify-center font-semibold mt-14">#Trending Blogs</p>
 
+
+  
+
+
+
       <div className="flex justify-center mt-8 grid grid-rows-4 grid-flow-col lg:grid-rows-1 gap-4 ">
         <div className="container bg-white text-black w-64 h-48 text-center font-mono rounded-md">
           <h1 className="text-2xl mt-16">Sourabh Netrawalkar</h1>

@@ -1,0 +1,64 @@
+[
+    {
+      "author": "John Doe",
+      "title": "Sachin Tendulkar",
+      "content": "Sachin Tendulkar, known as the 'Little Master,' is widely regarded as one of the greatest batsmen in the history of cricket. He holds numerous records including the most runs in both Test and ODI cricket.",
+      "board": "Board of Control for Cricket in India (BCCI)"
+    },
+    {
+      "author": "Jane Smith",
+      "title": "Virat Kohli",
+      "content": "Virat Kohli is one of the modern greats of the game, known for his aggressive batting style and exceptional consistency. He has been a prolific run-scorer across all formats and has led India to many memorable victories.",
+      "board": "Board of Control for Cricket in India (BCCI)"
+    },
+    {
+      "author": "Robert Brown",
+      "title": "Brian Lara",
+      "content": "Brian Lara is celebrated for his elegant stroke play and is considered one of the finest left-handed batsmen of all time. He holds the record for the highest individual score in a Test inning, with 400 not out.",
+      "board": "Cricket West Indies (CWI)"
+    },
+    {
+      "author": "Emily White",
+      "title": "Jacques Kallis",
+      "content": "Jacques Kallis is widely regarded as one of the greatest all-rounders in cricket history. He excelled with both bat and ball, amassing over 10,000 runs and 250 wickets in both Test and ODI formats.",
+      "board": "Cricket South Africa (CSA)"
+    },
+    {
+      "author": "Michael Green",
+      "title": "Ricky Ponting",
+      "content": "Ricky Ponting, one of Australia's finest captains, led his team to multiple World Cup victories. A prolific batsman, Ponting is known for his aggressive style and sharp cricketing mind.",
+      "board": "Cricket Australia (CA)"
+    },
+    {
+      "author": "Sarah Blue",
+      "title": "Kumar Sangakkara",
+      "content": "Kumar Sangakkara, one of Sri Lanka's greatest cricketers, is renowned for his elegant batting and sharp wicket-keeping. He has scored over 12,000 runs in both Test and ODI cricket.",
+      "board": "Sri Lanka Cricket (SLC)"
+    },
+    {
+      "author": "David Yellow",
+      "title": "Shane Warne",
+      "content": "Shane Warne, the legendary Australian leg-spinner, is widely regarded as one of the greatest bowlers in the history of cricket. His incredible skill and charisma made him a fan favorite.",
+      "board": "Cricket Australia (CA)"
+    },
+    {
+      "author": "Laura Black",
+      "title": "AB de Villiers",
+      "content": "AB de Villiers, known as 'Mr. 360' for his ability to play shots all around the wicket, is one of the most versatile and explosive batsmen in modern cricket. His innovative batting has redefined the game.",
+      "board": "Cricket South Africa (CSA)"
+    },
+    {
+      "author": "Mark Red",
+      "title": "Muttiah Muralitharan",
+      "content": "Muttiah Muralitharan, the Sri Lankan off-spinner, holds the record for the most wickets in both Test and ODI cricket. His unique bowling action and incredible spin made him a formidable opponent.",
+      "board": "Sri Lanka Cricket (SLC)"
+    },
+    {
+      "author": "Lucy Purple",
+      "title": "Viv Richards",
+      "content": "Viv Richards, the legendary West Indian batsman, is known for his dominant and fearless batting style. He was a key player in the West Indies' domination of world cricket in the 1970s and 1980s.",
+      "board": "Cricket West Indies (CWI)"
+    }
+  ]
+  
+  
